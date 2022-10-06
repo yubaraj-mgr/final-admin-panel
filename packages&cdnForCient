@@ -1,0 +1,3 @@
+font awesome cdn
+
+packages: react-bootstarp, axios, react-router-dom@6, redux toolkit, react-redux, react-toastify
